@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Papirus-Light-Maia
-Comment=Papirus Maia icon theme
+Name=Papirus-Light-Tokyo
+Comment=Papirus Tokyo icon theme
 Inherits=Papirus-Light,Papirus,breeze-dark,gnome,hicolor
 
 Example=folder

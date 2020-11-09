@@ -1,2 +1,3 @@
-# papirus-maia-icon-theme
+# papirus-tokyo-icon-theme
+
 Manjaro variation of Papirus icon theme
